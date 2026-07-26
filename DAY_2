@@ -18,3 +18,8 @@ type(num)
 
 the next thiin g is understanding the operators 
 arithmetic assignment comparision llogical 
+
+
+score = 20
+score *= 111
+print (score)   here we havve understood the assoignment operators using the multiplication operator 
