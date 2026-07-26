@@ -1,3 +1,20 @@
 THis is the day 2 of my python learning 
 Module -1: Python Basics 
 understanding variables, data types, comments and doc strings , typecasting 
+new = ("My First python program")
+
+name = input("Whats ur name ?")
+
+num = input("youur favourite number ")
+
+int_num = int(num)
+
+lucky_number = int_num**10
+
+print(f"Hi \n{new}  \n{name}  \n{lucky_number} " )
+
+type(num)
+
+
+the next thiin g is understanding the operators 
+arithmetic assignment comparision llogical 
