@@ -3,6 +3,7 @@ Module -1: Python Basics
 understanding variables, data types, comments and doc strings , typecasting 
 new = ("My First python program")
 
+
 name = input("Whats ur name ?")
 
 num = input("youur favourite number ")
